@@ -96,17 +96,31 @@ plt.show()
 ```
 
 ### OUTPUT:
-# SIMULATED ARMA(1,1) PROCESS:
-![image](https://github.com/user-attachments/assets/d93ea978-68fb-4c6c-9842-ef449a0d5c93)
 
-# Partial Autocorrelation:
-![image](https://github.com/user-attachments/assets/680efae5-0627-4c37-9028-cc1f62f63bf9)
+<table>
+  <tr>
+    <td style="width:50%">
+      <h3>SIMULATED ARMA(1,1) PROCESS:</h3>
+      <img src="https://github.com/user-attachments/assets/d93ea978-68fb-4c6c-9842-ef449a0d5c93" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>Partial Autocorrelation (ARMA 1,1):</h3>
+      <img src="https://github.com/user-attachments/assets/680efae5-0627-4c37-9028-cc1f62f63bf9" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%">
+      <h3>SIMULATED ARMA(2,2) PROCESS:</h3>
+      <img src="https://github.com/user-attachments/assets/b89eae64-d15d-42b6-b398-9c7a6d010a58" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>Partial Autocorrelation (ARMA 2,2):</h3>
+      <img src="https://github.com/user-attachments/assets/02523c49-0c19-45af-9c83-16d9e5f07ed9" style="width:48%; height:auto;">
+    </td>
+  </tr>
+</table>
 
-# SIMULATED ARMA(2,2) PROCESS:
-![image](https://github.com/user-attachments/assets/b89eae64-d15d-42b6-b398-9c7a6d010a58)
 
-# Partial Autocorrelation:
-![image](https://github.com/user-attachments/assets/02523c49-0c19-45af-9c83-16d9e5f07ed9)
 
 # RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
